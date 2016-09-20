@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(data.table)\nlibrary(plyr)\n\n# import csv\ndata.raw = read.csv(\"csv/hpi_data.csv\")\n\n# format benchmark to number\ndata.raw$benchmark = as.numeric(data.raw$benchmark)\n\n# 10 years, increase mostly area and house type\n\n# aggregate the data by area and type\nformatted_data = data.table(data.raw)\n# rouped_data = formatted_data[, lapply(.SD[benchmark== head(benchmark)], head), by=list(type, area)]\n# grouped_data = formatted_data[, .SD[nrow(.SD),], by=list(type, area)]\n\ngrouped_data = formatted_data[, \n                              list(benchmark_increase_rate = (.SD[1,]$benchmark - .SD[nrow(.SD),]$benchmark)/ (.SD[nrow(.SD),]$benchmark),\n                                   house_price_index_change = (.SD[1,]$price_index - .SD[nrow(.SD),]$price_index)/ (.SD[nrow(.SD),]$price_index)), \n                              by=list(type, area)]\ngrouped_data\nwrite.csv(grouped_data, file = \"./csv/hpi_data_analysis_results.csv\", row.names=FALSE)\n",
+    "created" : 1472621951781.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2052335931",
+    "id" : "3CFBF04",
+    "lastKnownWriteTime" : 1472875184,
+    "last_content_update" : 1472875184543,
+    "path" : "D:/project_dev/vancouver_hpi/hpi_analysis.R",
+    "project_path" : "hpi_analysis.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,84 @@
+"type","area","benchmark_increase_rate","house_price_index_change"
+"Residential  - all types","Greater Vancouver",1.44203088196807,1.442
+"Residential  - all types","Bowen Island",0.730052038161318,0.73
+"Residential  - all types","Burnaby East",1.39994479712945,1.4
+"Residential  - all types","Burnaby North",1.34435096153846,1.345
+"Residential  - all types","Burnaby South",1.45195025438101,1.452
+"Residential  - all types","Coquitlam",1.31301775147929,1.32
+"Residential  - all types","Ladner",1.31794158553547,1.316
+"Residential  - all types","Lower Mainland",1.34536227798139,1.346
+"Residential  - all types","Maple Ridge",0.937837837837838,0.938
+"Residential  - all types","New Westminster",1.28492333901193,1.285
+"Residential  - all types","North Vancouver",1.31611010830325,1.316
+"Residential  - all types","Pitt Meadows",1.03183315038419,1.031
+"Residential  - all types","Port Coquitlam",1.13713678242381,1.137
+"Residential  - all types","Port Moody",1.14708321813658,1.147
+"Residential  - all types","Richmond",1.56012749927557,1.56
+"Residential  - all types","Squamish",1.03030303030303,1.031
+"Residential  - all types","Sunshine Coast",0.673090399439383,0.673
+"Residential  - all types","Tsawwassen",1.42810621242485,1.428
+"Residential  - all types","Vancouver East",1.90509666080844,1.905
+"Residential  - all types","Vancouver West",1.64004214963119,1.64
+"Residential  - all types","West Vancouver",1.9770336982185,1.977
+"Residential  - all types","Whistler",0.650092936802974,0.65
+"Detached","Greater Vancouver",1.90961077292013,1.909
+"Detached","Bowen Island",0.730052038161318,0.73
+"Detached","Burnaby East",1.81909660107335,1.819
+"Detached","Burnaby North",2.08799071746277,2.088
+"Detached","Burnaby South",2.25497702909648,2.255
+"Detached","Coquitlam",1.72235763350321,1.726
+"Detached","Ladner",1.48841698841699,1.486
+"Detached","Lower Mainland",1.68500424808836,1.685
+"Detached","Maple Ridge",1.02991452991453,1.03
+"Detached","New Westminster",1.73902257504341,1.739
+"Detached","North Vancouver",1.69006685768863,1.69
+"Detached","Pitt Meadows",1.21031857908091,1.209
+"Detached","Port Coquitlam",1.42011202987463,1.42
+"Detached","Port Moody",1.57506925207756,1.575
+"Detached","Richmond",2.41797031688728,2.418
+"Detached","Squamish",1.12652844231792,1.127
+"Detached","Sunshine Coast",0.666082690960056,0.666
+"Detached","Tsawwassen",1.68604651162791,1.686
+"Detached","Vancouver East",2.38992042440318,2.39
+"Detached","Vancouver West",2.71396303901437,2.714
+"Detached","West Vancouver",2.19364958646259,2.194
+"Detached","Whistler",0.830980066445183,0.831
+"Townhouse","Greater Vancouver",1.72456775231202,1.19
+"Townhouse","Burnaby East",0.941154138192863,0.834
+"Townhouse","Burnaby North",0.916853094705444,0.917
+"Townhouse","Burnaby South",1.01686401148188,1.017
+"Townhouse","Coquitlam",0.897869213813372,0.898
+"Townhouse","Ladner",1.11398277004639,1.114
+"Townhouse","Lower Mainland",1.03800217155266,1.038
+"Townhouse","Maple Ridge",0.983972802331229,0.984
+"Townhouse","New Westminster",1.06611570247934,1.066
+"Townhouse","North Vancouver",1.15509813307803,1.155
+"Townhouse","Pitt Meadows",1.07399394201644,1.074
+"Townhouse","Port Coquitlam",1.08608266970042,1.086
+"Townhouse","Port Moody",0.818857722203447,0.819
+"Townhouse","Richmond",1.36792757840285,1.368
+"Townhouse","Squamish",1.22831215970962,1.23
+"Townhouse","Tsawwassen",1.11797752808989,1.118
+"Townhouse","Vancouver East",1.5911638641609,1.591
+"Townhouse","Vancouver West",1.50395838045691,1.504
+"Townhouse","Whistler",1.03903743315508,1.039
+"Apartment","Greater Vancouver",1.06795335745879,1.068
+"Apartment","Burnaby East",1.13097949886105,1.131
+"Apartment","Burnaby North",0.978021978021978,0.979
+"Apartment","Burnaby South",1.14813327980731,1.148
+"Apartment","Coquitlam",0.908090258668134,0.908
+"Apartment","Ladner",0.882938388625592,0.883
+"Apartment","Lower Mainland",1.01921397379913,1.019
+"Apartment","Maple Ridge",0.446931407942238,0.447
+"Apartment","New Westminster",1.13895216400911,1.139
+"Apartment","North Vancouver",0.901098901098901,0.901
+"Apartment","Pitt Meadows",0.768912529550827,0.769
+"Apartment","Port Coquitlam",0.841730883224659,0.842
+"Apartment","Port Moody",0.977916666666667,0.978
+"Apartment","Richmond",0.858952702702703,0.859
+"Apartment","Squamish",0.706788637457872,0.707
+"Apartment","Tsawwassen",0.734822934232715,0.735
+"Apartment","Vancouver East",1.42581356867071,1.426
+"Apartment","Vancouver West",1.23915857605178,1.239
+"Apartment","West Vancouver",0.98099191610225,0.981
+"Apartment","Whistler",0.231147540983607,0.231
